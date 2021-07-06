@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: #F8F5F1;
+}
+
+h1{
+    margin: 50px auto 0px auto;
+    font-family: 'Indie Flower', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    color: #11999E;
+}
+
+p{
+    color: #40514E;
+    line-height: 2;
+    font-weight: bold;
+    margin: 0px;
+
+}
+
+a{
+    color: #11999E;
+    text-decoration: none;
+    margin: 20px;
+}
+
+a:hover{
+    color: #F8F5F1;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:lightgray;
+    border-width: 5px;
+    width: 4%;
+    margin: 70px auto;
+}
+
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 20px;
+    size: 100%;
+}
+
+.header{
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+}
+
+.middle-container{
+    margin: 100px 0 10px 0;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 40px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    bottom:300px;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 400px;
+}
+
+.profile-image{
+    width: 300px;
+    height: 300px;
+}
+
+.basketball{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.coding{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+.p-header{
+    color: #40514E;
+    line-height: 2;
+    font-weight: bold;
+    width: 30%;
+    margin: auto;
+}
+
+.btn {
+    width: 115px;
+    height: 15px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 16px;
+    margin: 50px;
+    background-color: #66BFBF;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #00F68A;
+    border: solid #99C624 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+ }
+
+ .trademark{
+    color: #EAF6F6;
+    padding: 30px 0;
+}
